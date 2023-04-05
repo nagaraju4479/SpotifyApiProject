@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-05T06:54:34 IST" name="Default suite" finished-at="2023-04-05T06:54:45 IST" duration-ms="11114">
+    <groups>
+    </groups>
+    <test started-at="2023-04-05T06:54:34 IST" name="Default test" finished-at="2023-04-05T06:54:45 IST" duration-ms="11114">
+      <class name="spotifyOauth2.PlaylistTests">
+        <test-method signature="createPlayList()[pri:0, instance:spotifyOauth2.PlaylistTests@1d25c1c]" started-at="2023-04-05T06:54:34 IST" name="createPlayList" finished-at="2023-04-05T06:54:44 IST" duration-ms="9609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPlayList -->
+        <test-method signature="getAPlayList()[pri:0, instance:spotifyOauth2.PlaylistTests@1d25c1c]" started-at="2023-04-05T06:54:44 IST" name="getAPlayList" finished-at="2023-04-05T06:54:44 IST" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAPlayList -->
+        <test-method signature="invalidPayloadTest()[pri:0, instance:spotifyOauth2.PlaylistTests@1d25c1c]" started-at="2023-04-05T06:54:44 IST" name="invalidPayloadTest" finished-at="2023-04-05T06:54:45 IST" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidPayloadTest -->
+        <test-method signature="invalidTokenTest()[pri:0, instance:spotifyOauth2.PlaylistTests@1d25c1c]" started-at="2023-04-05T06:54:45 IST" name="invalidTokenTest" finished-at="2023-04-05T06:54:45 IST" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidTokenTest -->
+        <test-method signature="updateAPlayList()[pri:0, instance:spotifyOauth2.PlaylistTests@1d25c1c]" started-at="2023-04-05T06:54:45 IST" name="updateAPlayList" finished-at="2023-04-05T06:54:45 IST" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateAPlayList -->
+      </class> <!-- spotifyOauth2.PlaylistTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
